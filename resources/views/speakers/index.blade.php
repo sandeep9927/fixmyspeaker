@@ -88,8 +88,8 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="text-container">
-                        <h1 class="h1-large">Now is the time to start selling things online </h1>
-                        <p class="p-large">Kora is a leading online shop creation platform which offers amazing features for ecommerce</p>
+                        <h1 class="h1-large">Eject 💦 water from your phone's speakers after getting it wet.</h1>
+                        <p class="p-large">Click or tap the button above to activate blower</p>
                         <button class="btn-solid-lg" onclick="playAudio()" >Play</button>
                         <button class="btn-outline-lg page-scroll" onclick="pauseAudio()" >Pause</button>
                     </div> <!-- end of text-container -->
